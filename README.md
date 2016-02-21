@@ -1,1 +1,3 @@
-# buzzbabybuzz.github.io
+# Buzz Baby Buzz
+
+Website for the Buzz - Smartband.
